@@ -4,3 +4,4 @@ venv
 *.pkl
 *.txt
 *.jpg
+.vscode
